@@ -31,6 +31,5 @@ Program Dart ini menunjukkan penggunaan prinsip Pemrograman Berorientasi Objek (
 - Memulai proses checkout secara asinkron.
 
 <img width="770" alt="Screenshot 2024-03-12 142554" src="https://github.com/shidiqas/TP1PROVIS2024C2/assets/118581965/0a7f1504-56d6-4479-b4cf-df01cc3bafa2">
-<img width="770" alt="Screenshot 2024-03-12 142554" src="https://github.com/shidiqas/TP1PROVIS2024C2/assets/118581965/07dc6363-bce6-4e1c-bafe-7a018e51fd8a">
 <img width="761" alt="Screenshot 2024-03-12 142612" src="https://github.com/shidiqas/TP1PROVIS2024C2/assets/118581965/0ab4805c-3164-40d1-9cce-021e32c63076">
 
